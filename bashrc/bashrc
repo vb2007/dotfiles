@@ -1,5 +1,6 @@
 #TO USE
-#ln -s ~/.config/bashrc/bashrc ~/.bashrc
+#sudo rm -r ~/.bashrc
+#sudo ln -s ~/.config/bashrc/bashrc ~/.bashrc
 
 #
 # ~/.bashrc
